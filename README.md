@@ -1,2 +1,4 @@
-# saas-ai
-How to use NextJS, Stripe &amp; OpenAI to create an AI App with a Service as a Service model
+
+## SaaS AI
+
+> How to use NextJS, Stripe &amp; OpenAI to create an AI App with a Service as a Service model
